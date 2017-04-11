@@ -1,7 +1,9 @@
 # Hoppy-Beaver
 Capture the Sticks and Avoid the Pooper! (Khan Academy-Advanced JavaScript Course)
 
-This is a side-scroller game developed as a project on Khan Academy.
+This is a side-scroller game developed as a project on Khan Academy.  My modifications were the following:
+1.  Added left and right arrow movement.
+2.  Added the pooper and poop objects and collision handling.
 
 Instructions:
 1.  Copy all files into one folder.
