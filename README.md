@@ -4,7 +4,6 @@ Capture the Sticks and Avoid the Pooper! (Khan Academy-Advanced JavaScript Cours
 This is a side-scroller game developed as a project on Khan Academy.  My modifications were the following:
 1.  Added left and right arrow movement.
 2.  Added the pooper and poop objects and collision handling.
-3.  Added buttons for "New Game" and "End Game."
 
 Instructions:
 1.  Copy all files into one folder.
