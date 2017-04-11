@@ -3,6 +3,10 @@ Capture the Sticks and Avoid the Pooper! (Khan Academy-Advanced JavaScript Cours
 
 This is a side-scroller game developed as a project on Khan Academy.
 
+Instructions:
+1.  Copy all files into one folder.
+2.  Double-click "Hoppy Beaver.html" to begin.
+
 Rules:
 1.  Use the space bar to hop to capture the sticks.
 2.  Use the right and left arrow keys to avoid the "pooper."
